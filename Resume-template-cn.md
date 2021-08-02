@@ -3,7 +3,7 @@
      <div>
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             natsunoyoru97@outlook.com
+            <a href="mailto:natsunoyoru97@outlook.com">natsunoyoru97@outlook.com</a>
          </span>
          ·
          <span>
